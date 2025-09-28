@@ -33,7 +33,7 @@ RMI-Calculator/
 2. **Configure the Client**  
    - Open the `client` project in IntelliJ IDEA.  
    - Open `CalculatorGUI.java`.  
-   - Change the IP address to the server’s IP address.  
+   - Change the IP address to the server’s IP address on line 293.  
 
 3. **Run the Client GUI**  
    - Run `CalculatorClient.java`.  
